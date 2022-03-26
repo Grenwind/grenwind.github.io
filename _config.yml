@@ -105,5 +105,5 @@ deploy:
   type: git
   repo: https://github.com/Grenwind/grenwind.github.io.git
   branch: main
-  token: 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
+  token: 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
 
